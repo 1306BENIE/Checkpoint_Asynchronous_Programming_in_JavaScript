@@ -11,5 +11,7 @@ const iterateWithAsyncAwait = async(values) => {
 }
 
 // Exemple d'utilisation
-const data = [1, 2, 3, 4, 5];
+const data = [1, 2, 3, 4];
 iterateWithAsyncAwait(data);
+
+
